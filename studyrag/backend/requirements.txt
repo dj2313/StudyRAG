@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+chromadb
+ollama
+easyocr
+fsrs
+PyMuPDF
+python-docx
+python-pptx
+groq
+python-multipart
+marker-pdf
