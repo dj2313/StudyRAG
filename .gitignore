@@ -1,5 +1,6 @@
 # Internal Documentation
 .agent/
+docs/
 1_PRD.md
 2_TRD.md
 3_AppFlow.md
