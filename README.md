@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo/studyrag_logo.png" width="150" alt="StudyRAG Logo">
+</p>
+
 # StudyRAG 🚀
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
