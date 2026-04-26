@@ -1,6 +1,12 @@
-# Agent & Documentation
+# Internal Documentation
 .agent/
-*.md
+1_PRD.md
+2_TRD.md
+3_AppFlow.md
+4_DatabaseSchema.md
+5_Testing.md
+6_Deployment.md
+7_APIModelsAndCost.md
 
 # OS files
 .DS_Store
